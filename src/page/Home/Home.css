@@ -17,7 +17,8 @@
 }
 
 .referances-style {
-    background-color: rgba(0, 128, 0, 0.831);
+    border: solid white;
+    border-radius: 20px;
 }
 
 .referances-style img {

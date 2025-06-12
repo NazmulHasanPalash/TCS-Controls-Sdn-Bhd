@@ -1,18 +1,16 @@
 import React from 'react';
-import './About.css';
+import './Contact.css';
 
-
-const About = () => {
+const Contact = () => {
     return (
         <div>
             <div className='my-5'>
-                <h1 className='about-style'>About</h1>
+                <h1 className='contact-style'>Contact</h1>
+
             </div>
 
         </div>
-
-
     );
 };
 
-export default About;
+export default Contact;

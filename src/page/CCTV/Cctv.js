@@ -1,18 +1,16 @@
 import React from 'react';
-import './About.css';
+import './Cctv.css';
 
-
-const About = () => {
+const Cctv = () => {
     return (
         <div>
             <div className='my-5'>
-                <h1 className='about-style'>About</h1>
+                <h1 className='cctv-style '>CCTV</h1>
+
             </div>
 
         </div>
-
-
     );
 };
 
-export default About;
+export default Cctv;

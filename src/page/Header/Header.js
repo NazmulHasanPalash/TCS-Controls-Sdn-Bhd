@@ -30,22 +30,22 @@ const Header = () => {
                                             </button>
                                             <ul className="dropdown-menu text-color w-100 ">
                                                 <li className="nav-item">
-                                                    <HashLink className="nav-link active dropdown-text-style" to="/e_invoice">CCTV <img className=' p-3 ms-4 dropdown-image' src="image/img/cctv/image/cctv.jpg" alt="" /></HashLink>
+                                                    <HashLink className="nav-link active dropdown-text-style" to="/products/cctv">CCTV <img className=' p-3 ms-4 dropdown-image' src="image/img/cctv/image/cctv.jpg" alt="" /></HashLink>
                                                 </li>
                                                 <li className="nav-item">
-                                                    <HashLink className="nav-link active dropdown-text-style" to="/e_invoice">Door Access <img className=' p-3 dropdown-image' src="image/img/door-access/image/biostation2.jpg" alt="" /></HashLink>
+                                                    <HashLink className="nav-link active dropdown-text-style" to="/products/door_access">Door Access <img className=' p-3 dropdown-image' src="image/img/door-access/image/biostation2.jpg" alt="" /></HashLink>
                                                 </li>
                                                 <li className="nav-item">
-                                                    <HashLink className="nav-link active dropdown-text-style" to="/e_invoice">Barrier Gate <img className=' p-3 dropdown-image' src="image/img/barrier-gate/image/double-push-button.jpg" alt="" /></HashLink>
+                                                    <HashLink className="nav-link active dropdown-text-style" to="/products/barrier_gate">Barrier Gate <img className=' p-3 dropdown-image' src="image/img/barrier-gate/image/double-push-button.jpg" alt="" /></HashLink>
                                                 </li>
                                                 <li className="nav-item">
-                                                    <HashLink className="nav-link active dropdown-text-style" to="/e_invoice">Entrance Gate <img className=' p-3 dropdown-image' src="image/img/entrance-gate/image/circlelockcombi.jpg" alt="" /></HashLink>
+                                                    <HashLink className="nav-link active dropdown-text-style" to="/products/entrance_gate">Entrance Gate <img className=' p-3 dropdown-image' src="image/img/entrance-gate/image/circlelockcombi.jpg" alt="" /></HashLink>
                                                 </li>
                                                 <li className="nav-item">
-                                                    <HashLink className="nav-link active dropdown-text-style" to="/e_invoice">Securiy bolder <img className=' p-3 dropdown-image' src="image/img/security-bollard/image/127-p-600a.jpg" alt="" /></HashLink>
+                                                    <HashLink className="nav-link active dropdown-text-style" to="/products/security_bolder">Securiy bolder <img className=' p-3 dropdown-image' src="image/img/security-bollard/image/127-p-600a.jpg" alt="" /></HashLink>
                                                 </li>
                                                 <li className="nav-item">
-                                                    <HashLink className="nav-link active dropdown-text-style" to="/e_invoice">Intruder Alarm <img className=' p-3 dropdown-image' src="image/img/alarm/image/alarm.jpg" alt="" /></HashLink>
+                                                    <HashLink className="nav-link active dropdown-text-style" to="/products/intruder_alarm">Intruder Alarm <img className=' p-3 dropdown-image' src="image/img/alarm/image/alarm.jpg" alt="" /></HashLink>
                                                 </li>
 
 
@@ -53,10 +53,10 @@ const Header = () => {
                                         </div>
                                     </li>
                                     <li className="nav-item">
-                                        <HashLink className="nav-link active header-text-style" to="/home#leasing">Leasing</HashLink>
+                                        <HashLink className="nav-link active header-text-style" to="/leasing">Leasing</HashLink>
                                     </li>
                                     <li className="nav-item">
-                                        <HashLink className="nav-link active header-text-style" to="/home#referances">Referances</HashLink>
+                                        <HashLink className="nav-link active header-text-style" to="/referances">Referances</HashLink>
                                     </li>
 
                                     <li className="nav-item">

@@ -44,8 +44,8 @@ const Home = () => {
             </div>
             <h2 className='home-page-heading-style mx-auto my-5'>We work with some of the most successful companies</h2>
 
-            <div id="carouselExampleFade" className="carousel slide carousel-fade referances-style p-3">
-                <div className="carousel-inner w-50 mx-auto">
+            <div id="carouselExampleFade" className="carousel slide carousel-fade  p-3 ">
+                <div className="carousel-inner w-50 mx-auto referances-style shadow-lg">
                     <div className="carousel-item active">
                         <img src="image/img/references/referances1.png" className="d-block w-100" alt="..." />
                     </div>
@@ -68,11 +68,11 @@ const Home = () => {
 
                 </div>
                 <button className="carousel-control-prev " type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-                    <span className="carousel-control-prev-icon " aria-hidden="true"></span>
+                    <span className="carousel-control-prev-icon arrow-style p-4 " aria-hidden="true"></span>
                     <span className="visually-hidden">Previous</span>
                 </button>
                 <button className="carousel-control-next " type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-                    <span className="carousel-control-next-icon " aria-hidden="true"></span>
+                    <span className="carousel-control-next-icon arrow-style p-4 " aria-hidden="true"></span>
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>

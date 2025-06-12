@@ -1,18 +1,15 @@
 import React from 'react';
-import './About.css';
+import './Leasing.css';
 
-
-const About = () => {
+const Leasing = () => {
     return (
         <div>
             <div className='my-5'>
-                <h1 className='about-style'>About</h1>
+                <h1 className='leasing-style'>Leasing</h1>
             </div>
 
         </div>
-
-
     );
 };
 
-export default About;
+export default Leasing;

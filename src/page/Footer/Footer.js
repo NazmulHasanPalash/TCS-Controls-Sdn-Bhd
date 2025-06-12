@@ -1,12 +1,13 @@
 import React from 'react';
+import './Footer.css';
 
 const Footer = () => {
     return (
         <div>
-            <div className="footer-style mx-auto p-3 text-center text-white bg-dark">
+            <div className="footer-style mx-auto p-3 text-center text-white footer-style">
 
 
-                <p>Copyright 2025    YYC HOLDINGS SDN BHD 201501018259 (1143591-H)    All rights reserved.</p>
+                <p>Copyright 2025 </p>
             </div>
         </div >
 
