@@ -1,0 +1,11 @@
+
+.summary{
+    background-color: black !important;
+}
+.indicator-style{
+    background-color: crimson !important;
+    width: 10px !important;
+    border: 3px solid whitesmoke !important;
+    border-radius: 50%;
+    height: 10px !important;
+}
